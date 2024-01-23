@@ -45,4 +45,3 @@ const renderNames = (color) => {
     colorOutput.innerHTML += `<p>${color}</p>`
 }
 renderModeOptions()
-
